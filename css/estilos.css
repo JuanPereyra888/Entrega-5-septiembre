@@ -1,0 +1,20 @@
+body{
+    background-image: url(../assets/img/fondo.jpg)
+}
+h1{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    font-family: Titulo;
+}
+@font-face{
+    font-family: Titulo;
+    src: url(../assets/tipografia/HelveticaNowText-BoldItalic.woff);
+}
+p{
+    color: beige;
+    display: flex;
+    justify-content: center;
+}
+
+

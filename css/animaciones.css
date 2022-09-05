@@ -1,0 +1,14 @@
+.burger-main{
+    transform: scale(.5,.5);
+    width: 400px;
+    transition: 1s;
+}
+.burger-main:hover{
+    width: 600px;
+}
+.img-fo{
+    height: 200px;
+}
+.img-fo:hover{
+    height: 220px;
+}
